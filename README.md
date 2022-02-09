@@ -1,2 +1,2 @@
-- [Policy](https://neptaapp.github.io/Nepta/policy)
-- [Support](https://neptaapp.github.io/Nepta/support)
+- [Policy](https://wacta.github.io/Wacta/policy)
+- [Support](https://wacta.github.io/Wacta/support)
